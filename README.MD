@@ -5,9 +5,10 @@ This is a game I usually play with my friends when we are bored waiting in line.
 I personally think this is a good game to learn new words and keep your mind fresh!
 
 ### Enhancements
-[ ] Create Second Player
-[ ] Create Hints
-[ ] Give definition if not known
+- [ ] Create Second Player
+- [ ] Create Hints
+- [ ] Give definition if not known
+- [ ] Create a UI
 
 ## Design Process
 User inputs first word -> word goes into a used word bank if a valid word, otherwise return error
