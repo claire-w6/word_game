@@ -10,9 +10,12 @@ I personally think this is a good game to learn new words and keep your mind fre
 - [ ] Give definition if not known
 - [ ] Create a UI
 - [x] Add a counter score
-- [ ] Highest score board
+- [x] Highest score board
 - [ ] Play again key
 - [ ] Max 3 wrong
+
+### To Fix
+- [ ] Scoreboard doesn't persist after each play through
 
 ## Design Process
 User inputs first word -> word goes into a used word bank if a valid word, otherwise return error
